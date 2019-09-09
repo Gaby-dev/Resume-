@@ -1,6 +1,8 @@
-# Resume
- 
- 
+# MARIA GABRIELA SANCHEZ  *(Gaby Sanchez)*
+
+### About me
+Multilingual Communication and Social Media Engagement Coordinator who loves solving problems, helping people, and is eager to expand technical skills.
+
 ### *Community Support II*
 ### Uber ATG
 June 2019 – Present/ 4 months
@@ -28,6 +30,9 @@ Seattle, WA
   -Collaborate with the Design team to develop and translate instructional panels to Spanish for tasks and other site documentation.
 
   -Manage multiple projects simultaneously.
+  
+### Brand Ambassador at Banana Republic 
+June 2018 - Jan 2019
 
 ### Education
 2013
